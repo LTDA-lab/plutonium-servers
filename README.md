@@ -1,2 +1,2 @@
 plutonium server list:
-http://servers-pluto.ddns.net
+http://pluto-servers.ddns.net
